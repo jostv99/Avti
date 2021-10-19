@@ -6,7 +6,7 @@ in njegovo ceno, kateri tip koles je najbol popularen, katera velikost koles je 
 podjetja res tako kakovostna kolesa, kot se govori. (Verjetno še kaj)
 
 Podatki, ki jih bom pobral iz spletne trgovine so:
--tip kolesa
+-tip kolesa \n
 -velikost koles
 -število prestav
 -proizvajalec
