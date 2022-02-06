@@ -1,7 +1,6 @@
 # Avti
 Analiza prodaje avtomobilov na spletni trgovini bolha
-(https://www.bolha.com/avto-oglasi)
-Analizirati sem želel:
+(https://www.bolha.com/avto-oglasi). Analizirati sem želel:
 * odvisnost cene avtomobila od znamke
 * odvisnost cene od starosti avtomobila
 * odvisnost cene od tipa avtomobila
